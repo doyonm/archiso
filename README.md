@@ -29,11 +29,11 @@ root (no password)
 ## I3 default keybindings
 
 - Mod$ + Enter  
--- Open Terminal (Alacritty)
+  - Open Terminal (Alacritty)
 - Mod$ + e        
--- Exit I3 (Return to lightdm)
+  - Exit I3 (Return to lightdm)
 - Mod$ + d        
--- DMenu
+  - DMenu
   
 ## Archiso
   
