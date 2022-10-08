@@ -40,4 +40,10 @@ root (no password)
   sudo mkarchiso -v -w /tmp/archiso-tmp archlive
   -> out/archlinux-yyyy.mm.dd-x86_64.iso
   
+## Screen Resolution
+
+  - Display mode
+    - xrandr
+  - Set resolution
+    - xrandr --output NAME --mode 1440x900
   
