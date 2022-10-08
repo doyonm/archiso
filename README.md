@@ -3,7 +3,6 @@
 ## Additional packages
 
 - alacritty
-- dex
 - dmenu
 - firefox
 - git
