@@ -1,4 +1,4 @@
-# archiso based on releng
+# archiso based on releng (used to create the official monthly installation ISO)
 
 ## Additional packages
 
@@ -33,6 +33,7 @@ Mod$ + e        Exit I3 (Return to lightdm)
 Mod$ + d        DMenu
   
 ## Archiso
+  
   sudo mkarchiso -v -w /tmp/archiso-tmp archlive
   -> out/archlinux-yyyy.mm.dd-x86_64.iso
   
