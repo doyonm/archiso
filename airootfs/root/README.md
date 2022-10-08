@@ -25,6 +25,8 @@
 
 - $mod + Enter  
   - Open Terminal (Alacritty)
+- $mod + Shift + q        
+  - Close active window
 - $mod + Shift + e        
   - Exit I3 (Return to lightdm)
 - $mod + d        
