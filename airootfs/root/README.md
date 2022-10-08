@@ -1,3 +1,5 @@
+# archiso based on releng (used to create the official monthly installation ISO)
+
 ## Packages
 
 - alacritty
@@ -34,3 +36,14 @@
     - xrandr
   - Set resolution
     - xrandr --output NAME --mode 1440x900
+
+## Account 
+
+root (no password)
+  
+## Archiso
+  
+  sudo mkarchiso -v -w /tmp/archiso-tmp archlive
+  -> out/archlinux-yyyy.mm.dd-x86_64.iso
+  
+  
