@@ -1,5 +1,7 @@
 # archiso based on releng (used to create the official monthly installation ISO)
 
+## Packages
+
 - alacritty
 - dmenu
 - firefox
@@ -18,6 +20,24 @@
 - xf86-video-intel
 - xf86-video-nouveau
 - xorg
+
+## I3 keybindings
+
+- $mod + Enter  
+  - Open Terminal (Alacritty)
+- $mod + Shift + q        
+  - Close active window
+- $mod + Shift + e        
+  - Exit I3 (Return to lightdm)
+- $mod + d        
+  - DMenu
+  
+## Screen Resolution
+
+  - Display mode
+    - xrandr
+  - Set resolution
+    - xrandr --output NAME --mode 1440x900
 
 ## Account 
 
