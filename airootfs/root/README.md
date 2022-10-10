@@ -1,3 +1,5 @@
+# archiso based on releng (used to create the official monthly installation ISO)
+
 ## Packages
 
 - alacritty
@@ -23,7 +25,9 @@
 
 - $mod + Enter  
   - Open Terminal (Alacritty)
-- $mod + e        
+- $mod + Shift + q        
+  - Close active window
+- $mod + Shift + e        
   - Exit I3 (Return to lightdm)
 - $mod + d        
   - DMenu
@@ -34,3 +38,14 @@
     - xrandr
   - Set resolution
     - xrandr --output NAME --mode 1440x900
+
+## Account 
+
+root (no password)
+  
+## Archiso
+  
+  sudo mkarchiso -v -w /tmp/archiso-tmp archlive
+  -> out/archlinux-yyyy.mm.dd-x86_64.iso
+  
+  
