@@ -6,7 +6,7 @@ b43-fwcutter
 base
 bind
 brltty
-broadcom-wl
+broadcom-wl-dkms
 btrfs-progs
 clonezilla
 cloud-init
@@ -120,6 +120,7 @@ xfsprogs
 xl2tpd
 zsh
 alacritty
+dkms
 dmenu
 firefox
 git
@@ -129,6 +130,7 @@ i3-gaps
 i3status
 lightdm
 lightdm-gtk-greeter
+linux-headers
 mc
 networkmanager
 network-manager-applet
