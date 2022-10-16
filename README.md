@@ -1,9 +1,16 @@
 # archiso based on releng (used to create the official monthly installation ISO)
 
-## Packages
+## Changes from releng
+
+- Remove dhcpcd
+- Remove broadcom-wl
+
+## New packages
 
 - alacritty
+- broadcom-wl-dkms
 - dmenu
+- dkms
 - firefox
 - git
 - gparted
@@ -12,6 +19,7 @@
 - i3status
 - lightdm
 - lightdm-gtk-greeter
+- linux-headers
 - mc
 - networkmanager
 - network-manager-applet
