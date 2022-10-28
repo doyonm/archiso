@@ -54,7 +54,6 @@ root (no password)
 ## Installation
   Install archiso package
   
-  # Git clone as root
   sudo su
   git clone https://github.com/doyonm/archiso/
   
