@@ -53,7 +53,7 @@ root (no password)
   
 ## Archiso
   
-  sudo mkarchiso -v -w /tmp/archiso-tmp archiso:w
-  -> out/archlinux-yyyy.mm.dd-x86_64.iso
+  sudo mkarchiso -v -w /tmp/archiso-tmp archiso 
+    -> out/archlinux-yyyy.mm.dd-x86_64.iso
   
   
