@@ -51,7 +51,12 @@
 
 root (no password)
   
-## Archiso
+## Installation
+  Install archiso package
+  
+  # Git clone as root
+  sudo su
+  git clone https://github.com/doyonm/archiso/
   
   sudo mkarchiso -v -w /tmp/archiso-tmp archiso 
     -> out/archlinux-yyyy.mm.dd-x86_64.iso
