@@ -57,6 +57,8 @@ root (no password)
   sudo git clone https://github.com/doyonm/archiso/
   
   sudo mkarchiso -v -w /tmp/archiso-tmp archiso 
-    -> out/archlinux-yyyy.mm.dd-x86_64.iso
+  
+  Will create iso in out directory :
+  out/archlinux-yyyy.mm.dd-x86_64.iso
   
   
