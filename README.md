@@ -5,7 +5,7 @@
 - Remove dhcpcd
 - Remove broadcom-wl
 
-## Added packages
+## Additional packages
 
 - alacritty
 - broadcom-wl-dkms
