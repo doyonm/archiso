@@ -1,5 +1,8 @@
 # Archiso based on releng with i3 window manager, network manager and dkms/broadcom-wl-dkms
 
+- wifi should work on most adapters.
+  - macbook pro 2014 (OK)
+
 ## Changes from releng
 
 - Remove dhcpcd
