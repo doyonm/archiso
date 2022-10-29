@@ -1,11 +1,11 @@
-# archiso based on releng (used to create the official monthly installation ISO)
+# Archiso based on releng with i3 window manager, network manager and dkms/broadcom-wl-dkms
 
 ## Changes from releng
 
 - Remove dhcpcd
 - Remove broadcom-wl
 
-## New packages
+## Added packages
 
 - alacritty
 - broadcom-wl-dkms
