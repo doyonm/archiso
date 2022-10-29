@@ -52,11 +52,11 @@
 root (no password)
   
 ## Installation
-  Install archiso package
+  - sudo pacman -S archiso
+  - sudo git clone https://github.com/doyonm/archiso/
   
-  sudo git clone https://github.com/doyonm/archiso/
-  
-  sudo mkarchiso -v -w /tmp/archiso-tmp archiso 
+## Create the iso 
+  - sudo mkarchiso -v -w /tmp/archiso-tmp archiso 
   
   Will create iso in out directory :
   out/archlinux-yyyy.mm.dd-x86_64.iso
