@@ -1,7 +1,6 @@
 # Archiso based on releng with i3 window manager, network manager and dkms/broadcom-wl-dkms
 
-- wifi should work on most adapters.
-  - macbook pro 2014 (OK)
+- wifi should work on most broadcom cards (test successfully with a macbook pro 2014)
 
 ## Changes from releng
 
