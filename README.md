@@ -17,7 +17,7 @@
 - git
 - gparted
 - htop
-- i3-gaps
+- i3-wm
 - i3status
 - lightdm
 - lightdm-gtk-greeter
